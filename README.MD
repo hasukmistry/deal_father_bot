@@ -31,7 +31,9 @@ Download and Install telegram: https://telegram.org/
 
 ![Search a deal](./assets/IMG_1032.jpg "Search a deal")
 
-Use ```/deals {search}``` pattern to retrieve list. For example: ```/deals iphone xs```
+Use ```/deals {search}``` pattern to retrieve list. For example: ```/deals iphone xs```.
+
+**Bot gives a list with numbers below. Click on the deal number below the list to get redirected to the deal on Amazon.**
 
 - To search a deals by category, see the example screenshot.
 
