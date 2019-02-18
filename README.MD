@@ -17,25 +17,25 @@ Download and Install telegram: https://telegram.org/
 
 - Click on the result and you will see similar screen as below screenshot.
 
-![Initial screen](./assets/IMG_1029.PNG "Initial screen")
+![Initial screen](./assets/IMG_1029.jpg "Initial screen")
 
 - Click on start to retrieve a list of available commands
 
-![Starting a bot](./assets/IMG_1030.PNG "Starting a bot")
+![Starting a bot](./assets/IMG_1030.jpg "Starting a bot")
 
 - Set your country, this is important because based on this bot will give you deals. For example: If you are looking for a deals from **amazon.de**, you should use germany.
 
-![Setting a country](./assets/IMG_1031.PNG "Setting a country")
+![Setting a country](./assets/IMG_1031.jpg "Setting a country")
 
 - To search a deals by title, see the example screenshot.
 
-![Search a deal](./assets/IMG_1032.PNG "Search a deal")
+![Search a deal](./assets/IMG_1032.jpg "Search a deal")
 
 Use ```/deals {search}``` pattern to retrieve list. For example: ```/deals iphone xs```
 
 - To search a deals by category, see the example screenshot.
 
-![Search a deal by category](./assets/IMG_1033.PNG "Search a deal by category")
+![Search a deal by category](./assets/IMG_1033.jpg "Search a deal by category")
 
 Use ```/category {search}``` pattern to retrieve list. For example: ```/category beauty```
 
