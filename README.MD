@@ -1,5 +1,5 @@
 # Deal Father Bot: A telegram bot to let you search a deal.
-Ever wonder how it feels like to have a deal search for your shopping! It gives a hard time to go on amazon and search for a product deal that we are looking for.
+Ever wondered how it feels like to have a deal search for your shopping! It gives a hard time to go on amazon and search for a product deal that we are looking for.
 
 **Deal Father** is a telegram bot, which can simplifies this. It provides an option to search by title or by category. By giving a quick list of flash deals and today's deals it adds more gem.
 
